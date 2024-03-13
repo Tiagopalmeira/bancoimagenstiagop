@@ -1,0 +1,11 @@
+{
+  "name": "banco-de-imagens",
+  "version": "1.0.0",
+  "description": "Banco de imagens oara serviços",
+  "main": "index.html",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC"
+}
